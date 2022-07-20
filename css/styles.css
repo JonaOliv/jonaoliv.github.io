@@ -1,0 +1,133 @@
+body {
+        margin: 0;
+        padding: 0;
+        background-color: #F5F5F5;
+      }
+
+      .content {
+        max-width: 55%;
+        margin: auto;
+        margin-top: 2em;
+        padding: 1%;
+        background-color: #002060;
+        box-shadow: 5px 10px 10px 5px #888888;
+        border-radius: 0.5em;
+      }
+
+      header {
+        width: 100%;
+
+      }
+
+      h1 {
+        text-align: center;
+        font-weight: bold;
+        font-family: "Roboto+Mono", arial, sans-serif;
+        margin-bottom: 0.5em;
+      }
+
+      .photo {
+        border: 1px solid white;
+        border-radius: 0.5em;
+      }
+
+      .fixing-blue-padding {
+        padding: 0;
+        border-radius: 0.5em;
+      }
+
+      .fixing-white-padding {
+        padding-left: 0.5em;
+      }
+
+      .fixing-separation{
+        padding-bottom: 0.5em;
+      }
+
+      .semi-title{
+        padding: 0.5em;
+        background-color: #008bba;
+        padding-bottom: 0.5em;
+        border-radius: 0.2em;
+        color: white;
+        text-align: justify;
+        text-justify: inter-word;
+        font-weight: 400;
+        font-family: "Ubuntu", arial, sans-serif;
+        font-size: 1.1em;
+      }
+
+      .about {
+        text-align: justify;
+        text-justify: inter-word;
+        font-weight: 400;
+        font-family: "Ubuntu", arial, sans-serif;
+        font-size: 1.05em;
+      }
+
+      .sidebar{
+        background-color: white;
+        padding: 0;
+        width: 100%;
+        border-radius: 1.5em;
+      }
+
+      .sidebar-li {
+        text-align: justify;
+        text-justify: inter-word;
+        font-weight: bold;
+        font-family: "Ubuntu", arial, sans-serif;
+        font-size: 1em;
+      }
+  
+      .section {
+        background-color: white;
+        padding: 1.5em;
+        width: 100%;
+        border-radius: 1.5em;
+      }
+
+      .separator {
+        height: 1em;
+      }
+
+      .git-projects{
+        color: black;
+      }
+
+      .fixing-paragrape{
+        padding-left: 0.5em;
+      }
+
+/* .accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    margin: 0;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+  }
+
+  .accordion-h3 {
+    margin: 1px;
+  }
+  
+  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+  /* .active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+  /* Style the accordion panel. Note: hidden by default */
+  /* .panel {
+    padding: 0 18px;
+    background-color: white;
+    display: none;
+    overflow: hidden;
+    margin: 0;
+    margin-left: 1px;
+    margin-right: 1px;
+  } */ 
