@@ -17,4 +17,4 @@ Conference 2025 Paper
 ======
 **Machine Learning Model for Selecting Assignments of Variables for SAT Problems**
 
-You can download the main paper for this conference here: [Paper](http://academicpages.github.io/files/ModRef_2025___Workshop___Research_Paper.pdf).
+You can download the main paper for this conference here: [Paper](https://jonaoliv.github.io/files/ModRef_2025___Workshop___Research_Paper.pdf).
