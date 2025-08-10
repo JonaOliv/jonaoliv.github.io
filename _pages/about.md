@@ -15,4 +15,6 @@ I am also an experienced software engineer and full-stack web developer boasting
 
 Conference 2025 Paper
 ======
-You can download the main paper for this conference here: [Paper](http://academicpages.github.io/files/paper3.pdf).
+**Machine Learning Model for Selecting Assignments of Variables for SAT Problems**
+
+You can download the main paper for this conference here: [Paper](http://academicpages.github.io/files/ModRef_2025___Workshop___Research_Paper.pdf).
